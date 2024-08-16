@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(5, 5, 33);
+ }
+        h1 {
+            color:#f00e0ee1;
+            font-size: 30px;
+            text-decoration:  underline;
+            font-family:Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+          p {
+            color:rgba(19, 112, 235, 0.992);
+            text-align:unset;
+            line-height:30px;
+            letter-spacing: 3px;
+            column-count: 2;
+            display block;
+            margin: 2%;
+        }
+        h2 {
+            color:#f00e0ee1;
+            font-size: 30px;
+            text-decoration:  underline;
+            font-family:Arial, Helvetica, sans-serif;
+            text-align: center; 
+        }
+        ul {
+            /* border-width: 4px;
+            border-style: solid;
+            border-color: rgba(125, 4, 4, 0.336); */
+            border: 4px solid rgb(48, 1, 1)
+        }
+        li {
+            list-style-type: disc;
+        }
+        div{
+            color: rgb(170, 9, 9);
+            border: 2px dashed green;
+        }
+        p {
+            font-size: 20px;
+        }
+        p.okay{
+          color: rgb(206, 14, 14);  
+        }
+        p.error {
+            color: rgb(195, 21, 21);
+        }
+        P.okay.error{
+            color: rgb(94, 7, 7);
+        }
+a[href="https://instagram.com/muhabbatzoda_.04pm"]{
+    background-color: rgb(97, 195, 23);
+    color:black;
+   display: block;
+   width: 100px;
+}
+
+a[href="https://youtube.com/@muhabbatzoda_04"]{
+    display: block;
+   background-color:rgba(16, 217, 147, 0.147); 
+   border: 1px solid red;
+   border-radius: 5px;
+   background-color:red;
+   color: white;
+   margin: 5%;
+   width: 7%;
+   padding: 1px;
+   text-decoration: none;
+
+}
+
+    
+        
+
+       
